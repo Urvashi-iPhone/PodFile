@@ -1,7 +1,9 @@
 # PodFile
-
-cd project path  
-touch podfile  
-open podfile  
-write code into podfile  
-pod install
+<h3>Pod Install Steps Command</h3>
+<ol>
+<li>cd project path</li>  
+<li>touch podfile</li>    
+<li>open podfile</li>   
+<li>vwrite code into podfile</li>   
+<li>pod install</li>  
+</ol>
