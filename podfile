@@ -2,7 +2,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, ‘7.3’
 
-target ‘Runmileapp’ do
+target ‘<App Name>’ do
 pod 'AFNetworking', '~> 3.0'
 
 
